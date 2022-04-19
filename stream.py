@@ -1,6 +1,6 @@
 import discord, asyncio, sys, time, os, io, shutil
 client = discord.Client()
-token = ""
+token = "OTQ3NjE1NTMzNjY1MjMwOTAx"
 from discord.ext import (
     commands,
     tasks
